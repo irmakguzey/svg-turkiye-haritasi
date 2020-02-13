@@ -109,9 +109,9 @@ function svgturkiyeharitasi() {
         const id = parent.getAttribute('id');
     
         if (aktif_iller_id.includes(id)) {
-          window.location.href = "http://kadinsavunmasi.ozancrk.com/kadin-savunma-agina-katil/";
+          window.location.href = "https://kadinsavunmasi.org/kadin-savunma-agina-katil/";
         } else {
-          window.location.href = "http://kadinsavunmasi.ozancrk.com/kadin-savunma-agini-nasil-kurarim/";
+          window.location.href = "https://kadinsavunmasi.org/kadin-savunma-agini-nasil-kurarim/";
         }
         
 
